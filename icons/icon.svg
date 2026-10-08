@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#153b5c"/>
+  <rect x="40" y="40" width="432" height="432" rx="84" fill="none" stroke="#fff" stroke-opacity=".85" stroke-width="12"/>
+  <line x1="256" y1="40" x2="256" y2="472" stroke="#fff" stroke-opacity=".55" stroke-width="10"/>
+  <circle cx="256" cy="256" r="92" fill="#153b5c" stroke="#fff" stroke-opacity=".55" stroke-width="10"/>
+  <!-- apito -->
+  <g transform="translate(256 262)">
+    <circle cx="-26" cy="14" r="62" fill="#ff7a1a"/>
+    <circle cx="-26" cy="14" r="26" fill="#153b5c"/>
+    <path d="M24 -34 H112 a14 14 0 0 1 14 14 v28 a14 14 0 0 1 -14 14 H34 z" fill="#ff7a1a"/>
+    <rect x="-8" y="-62" width="34" height="34" rx="8" fill="#ff7a1a"/>
+  </g>
+</svg>
